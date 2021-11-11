@@ -1,2 +1,2 @@
 # Project_FY (Final Year Project)
-###This ReadMe Contains a layout and Complete methodology of my project.
+### This readMe Contains a layout and a complete methodology of my project.
