@@ -8,4 +8,4 @@ import time
 camera=PiCamera()
 camera.resolution=(1920,1080)
 camera.vflip=True
-
+camera.capture("FistTake.jpg")
