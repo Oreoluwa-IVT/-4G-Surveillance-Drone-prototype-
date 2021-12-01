@@ -11,3 +11,6 @@ camera.vflip=True # this flip the camera view vertically
 camera.capture("FistTake.jpg") # This line take a snapshot once. (At the instant the camera is started)
 camera.stat_preview()
 camera.capture("Ayeoluwa.jpg")
+camera.start_recording("newvideo.h264")
+time.sleep(10) #it takes the video for 10secs then stops 
+camera.stop_recording()
