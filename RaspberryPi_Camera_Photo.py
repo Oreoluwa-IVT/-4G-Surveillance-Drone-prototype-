@@ -10,4 +10,4 @@ camera.resolution=(1920,1080) # Raspberry pI configureation is set here
 camera.vflip=True # this flip the camera view vertically 
 camera.capture("FistTake.jpg") # This line take a snapshot once. (At the instant the camera is started)
 camera.stat_preview()
-camera.capture("Ayeoluwa")
+camera.capture("Ayeoluwa.jpg")
