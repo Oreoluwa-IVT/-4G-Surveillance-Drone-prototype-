@@ -1,9 +1,7 @@
 # 4G Surveillance Drone (prototype)
 ###### By Oluwafemi Oreoluwa
-This repository contains all the resources and procedures needed to design and implement a Wireless 4G Surveillance UAV. 
-Getting Started, it is important to know that this repository is sectioned in 5 folders: Circuit Design , 3D Model , Code , Components and Documentation. However, 
-to followthrough , you'd need to be consersant with the Scripting Lanaguage, Python. If you're new to python, no fear , it's easy to learn.
-This Read Me will give a summary of this project and will act a guide for navigating your way around this repository.
+In the partial fulfillment of the requirements for the award of the Bachelor of Engineering in Computer Engineering, I took it upon myself to build something I never thought I could and, ultimately, something that could improve how we live our lives in some way or form. A 4G Surveillance drone. In October 2021, I began the engineering design of this e-UAV and completed implementation four days to defense.
+This project aimed to reduce CO2 emissions contributed during aerial surveillance in the aviation industry by introducing a Network of electric 4G Surveillance Unmanned Aerial Vehicles.
 
 
 ## Project Details 
@@ -22,6 +20,12 @@ This Read Me will give a summary of this project and will act a guide for naviga
 |Screw and Knot |  |   |
 |Zip Ties  |  |   |
 |Battery Charger  |  |   |
+
+
+## Design 
+| System Design |  Network Diagram | 
+|--------------|-----------|
+| ![image](https://user-images.githubusercontent.com/75027292/186240077-b275ccb4-2f3e-41ff-a0a3-b5ef013c380b.png) |![image](https://user-images.githubusercontent.com/75027292/186240302-cc7d08a3-3ad2-48c3-a4b1-305490a04321.png) |
 
 
 ## End Results 
