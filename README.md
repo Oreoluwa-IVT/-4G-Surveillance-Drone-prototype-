@@ -8,11 +8,11 @@ This Read Me will give a summary of this project and will act a guide for naviga
 
 ## Project Details 
 
-| Components       | Hardware Requirements    | Software Requirements |
+| Components       | Minimum Hardware Requirements    | Software Requirements |
 |--------------|-----------|------------|
-|ESC (Electronic Speed Controller) |    |  Operating Systems Mininum:Microsoft Windows 10 |
-|Brushless Motor (2200kv) CW & CCW    | | Python   |
-|Flight controller with GPS  | | Mission Planner Software  |
+|ESC (Electronic Speed Controller) | 	500 Gigabyte Secondary Storage (SDD /HDD)|  Operating Systems Mininum:Microsoft Windows 10 |
+|Brushless Motor (2200kv) CW & CCW    | Network Interface card (NIC) capable of setting up a hotspot connection | Mission Planner Software  |
+|Flight controller with GPS  | 4GB Random Access memory stick (RAM)   | |
 |1045 Propeller CCW /CW  |  |   |
 |Light Weight Aluminium (Sheet: 500mm x 500mm) |  |   |
 |3S 5200mAh 11.1v Battery. 60c XT60  |  |   |
@@ -22,4 +22,10 @@ This Read Me will give a summary of this project and will act a guide for naviga
 |Screw and Knot |  |   |
 |Zip Ties  |  |   |
 |Battery Charger  |  |   |
- 
+
+
+## Test Results 
+|     | Full Assembly  | Flight |
+|--------------|-----------|------------|
+| |  |   |
+|  |  |   |
