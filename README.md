@@ -1,6 +1,6 @@
 # 4G Surveillance Drone (prototype)
 ###### By Oluwafemi Oreoluwa
-In the partial fulfillment of the requirements for the award of the Bachelor of Engineering in Computer Engineering, I began the engineering design of an e-UAV and completed implementation four days to final year defense.This project aimed to reduce CO2 emissions contributed during aerial surveillance in the aviation industry by introducing a Network of electric 4G Surveillance Unmanned Aerial Vehicles.
+In the partial fulfillment of the requirements for the award of the Bachelor of Engineering in Computer Engineering, I began the engineering design of an e-UAV and completed implementation four days to final year defense.This project aimed at reducing CO2 emissions contributed during aerial surveillance in the aviation industry by introducing a Network of electric 4G Surveillance Unmanned Aerial Vehicles.
 
 
 ## Requirements
