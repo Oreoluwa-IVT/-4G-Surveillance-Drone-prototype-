@@ -3,13 +3,24 @@
 In the partial fulfillment of the requirements for the award of the Bachelor of Engineering in Computer Engineering, I began the engineering design of an e-UAV and completed implementation four days to final year defense.This project aimed to reduce CO2 emissions contributed during aerial surveillance in the aviation industry by introducing a Network of electric 4G Surveillance Unmanned Aerial Vehicles.
 
 
-## Project Details 
+## Requirements
 
-| Components       | Minimum Hardware Requirements    | Software Requirements |
+| Minimum Hardware Requirements    | Software Requirements |
+|-----------|------------|
+|	500 Gigabyte Secondary Storage (SDD /HDD)|  Operating Systems Mininum:Microsoft Windows 10 |
+| Network Interface card (NIC) capable of setting up a hotspot connection |   |
+| 4GB Random Access memory stick (RAM)   | 
+
+
+## Design 
+| System Design |  Network Diagram | 
+|--------------|-----------|
+| ![image](https://user-images.githubusercontent.com/75027292/186240077-b275ccb4-2f3e-41ff-a0a3-b5ef013c380b.png) |![image](https://user-images.githubusercontent.com/75027292/186240302-cc7d08a3-3ad2-48c3-a4b1-305490a04321.png) |
+
+## BIil of Materials (In progress....) 
+The components listed in the table below is for a quadcoper configuration. Hence, the quantity of some components may vary for othe configurations 
+| Components       | Description   | Link to Purchase |
 |--------------|-----------|------------|
-|ESC (Electronic Speed Controller) | 	500 Gigabyte Secondary Storage (SDD /HDD)|  Operating Systems Mininum:Microsoft Windows 10 |
-|Brushless Motor (2200kv) CW & CCW    | Network Interface card (NIC) capable of setting up a hotspot connection | Mission Planner Software  |
-|Flight controller with GPS  | 4GB Random Access memory stick (RAM)   | |
 |1045 Propeller CCW /CW  |  |   |
 |Light Weight Aluminium (Sheet: 500mm x 500mm) |  |   |
 |3S 5200mAh 11.1v Battery. 60c XT60  |  |   |
@@ -19,12 +30,6 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 |Screw and Knot |  |   |
 |Zip Ties  |  |   |
 |Battery Charger  |  |   |
-
-
-## Design 
-| System Design |  Network Diagram | 
-|--------------|-----------|
-| ![image](https://user-images.githubusercontent.com/75027292/186240077-b275ccb4-2f3e-41ff-a0a3-b5ef013c380b.png) |![image](https://user-images.githubusercontent.com/75027292/186240302-cc7d08a3-3ad2-48c3-a4b1-305490a04321.png) |
 
 ## Ground Station Software
 The Mission planner software is a ground station application I used for my final year project.Note: some versions are buggy although the software works if you follow the installation and setup instructions properly
