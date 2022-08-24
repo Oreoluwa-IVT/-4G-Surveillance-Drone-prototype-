@@ -26,6 +26,11 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 |--------------|-----------|
 | ![image](https://user-images.githubusercontent.com/75027292/186240077-b275ccb4-2f3e-41ff-a0a3-b5ef013c380b.png) |![image](https://user-images.githubusercontent.com/75027292/186240302-cc7d08a3-3ad2-48c3-a4b1-305490a04321.png) |
 
+## Ground Station Software
+The Mission planner software was used a a ground station software platform for my final year project.Note: some versions are buggy although the software works  if you follow the setup instructions properlly
+
+- [ ] [About Mission Planner](https://ardupilot.org/planner/docs/mission-planner-overview.html)  
+- [ ] [Install Mission Planner](https://ardupilot.org/planner/docs/mission-planner-installation.html)  
 
 ## End Results 
 | Frame Material  | Full Assembly  | Flight |
