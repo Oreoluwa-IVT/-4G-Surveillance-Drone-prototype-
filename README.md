@@ -21,7 +21,7 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 The components listed in the table below is for a quadcoper configuration. Hence, the quantity of some components may vary for othe configurations 
 | Components       | Description   | Link to Purchase |
 |--------------|-----------|------------|
-|1045 Propeller CCW /CW  |  |   |
+|1045 Propeller CCW /CW  |  | [ESC 40A](https://bit.ly/oreesc)    |
 |Light Weight Aluminium (Sheet: 500mm x 500mm) |  |   |
 |3S 5200mAh 11.1v Battery. 60c XT60  |  |   |
 |Raspberry Pi Zero WH  |  |   |
