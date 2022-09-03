@@ -22,13 +22,13 @@ The components listed in the table below is for a quadcoper configuration. Altho
 | Components       | Description   | Link to Purchase |
 |--------------|-----------|------------|
 |[1045 Propeller](https://binged.it/3Bm6YIN) |  |   |
-|[Aluminium Sheet 500mm x 500mm ]() |  |   |
-|[3S 5000mAh 11.1v Battery. 60c XT60 ](https://bit.ly/4GUAVBattery)  |  |   |
-|Raspberry Pi Zero WH  |  |   |
-|Raspberry Pi Zero Camera  |  |   |
-|Camera connector for Pi Zero WH (Flex Cable) |  |   |
-|Screw and Knot |  |   |
-|Zip Ties  |  |   |
+|[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) |  |   |
+|[3S 5000mAh 11.1v Battery. 60c XT60 ](https://binged.it/3AJzNxb)  |  |   |
+| [Raspberry Pi Zero WH](https://binged.it/3q7gxov) |  |   |
+| [Raspberry Pi Zero Camera](https://binged.it/3KS7lOk)  |  |   |
+|[Camera connector for Pi Zero WH (Flex Cable)](https://binged.it/3cLv2Lu) |  |   |
+|[Bolt and Nut](https://binged.it/3D4u3k6) |  |   |
+|[Zip Ties](https://binged.it/3AKdaZj)  |  |   |
 |Battery Charger  |  |   |
 |[Electronic Speed Controller 40A](https://bit.ly/oreesc)   |  |  |
 
