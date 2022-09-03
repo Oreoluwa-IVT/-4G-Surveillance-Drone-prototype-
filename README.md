@@ -29,7 +29,7 @@ The components listed in the table below is for a quadcoper configuration. Altho
 |[Camera connector for Pi Zero WH (Flex Cable)](https://binged.it/3cLv2Lu) |  |   |
 |[Bolt and Nut](https://binged.it/3D4u3k6) |  |   |
 |[Zip Ties](https://binged.it/3AKdaZj)  |  |   |
-|Battery Charger  |  |   |
+|[Battery Charger](https://binged.it/3wU4ZZu)  |  |   |
 |[Electronic Speed Controller 40A](https://bit.ly/oreesc)   |  |  |
 
 ## Ground Station Software
