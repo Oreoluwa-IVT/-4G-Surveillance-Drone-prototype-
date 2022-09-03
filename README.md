@@ -33,6 +33,8 @@ The components listed in the table below is for a quadcoper configuration. Altho
 |[Electronic Speed Controller 40A](https://bit.ly/oreesc)   | An electronic speed control is an electronic circuit that controls and regulates the speed of an electric motor| 4 |
 |[Ardupilot Flight Controller](https://binged.it/3q9LS9Z) | ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more  | 1  |
 |[ 2300kv Brushless Motor](https://binged.it/3ATJXLQ) | It has a strong and unique performance thanks to its quality copper windings. 2300KV is the best quality motor model you can buy in the brushless motor category. Features: KV (rpm/v): 2300. Material: Metal. Rotation: CW. Motor diameter: 28mm. Motor height: 15mm (shaft excluded) Shaft diameter: 5mm. | 4  |
+|[FS-IA6 Controller](https://binged.it/3eovbVL) | It has a strong and unique performance thanks to its quality copper windings. 2300KV is the best quality motor model you can buy in the brushless motor category. Features: KV (rpm/v): 2300. Material: Metal. Rotation: CW. Motor diameter: 28mm. Motor height: 15mm (shaft excluded) Shaft diameter: 5mm. | 4  |
+
 
 ## Ground Station Software
 The Mission planner software is a ground station application I used for my final year project.Note: some versions are buggy although the software works if you follow the installation and setup instructions properly
