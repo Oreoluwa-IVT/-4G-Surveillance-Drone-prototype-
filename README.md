@@ -31,6 +31,7 @@ The components listed in the table below is for a quadcoper configuration. Altho
 |[Zip Ties](https://binged.it/3AKdaZj)  |  |   |
 |[Battery Charger](https://binged.it/3wU4ZZu)  |  |   |
 |[Electronic Speed Controller 40A](https://bit.ly/oreesc)   |  |  |
+|[Ardupilot Flight Controller](https://binged.it/3q9LS9Z)   |  |  |
 
 ## Ground Station Software
 The Mission planner software is a ground station application I used for my final year project.Note: some versions are buggy although the software works if you follow the installation and setup instructions properly
