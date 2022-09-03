@@ -21,8 +21,8 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 The components listed in the table below is for a quadcoper configuration. Although, the quantity of some components may vary for othe configurations 
 | Components       | Description   | Quantity|
 |--------------|-----------|------------|
-|[1045 Propeller](https://binged.it/3Bm6YIN) |  |  4 |
-|[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) |  |  1 |
+|[1045 Propeller](https://binged.it/3Bm6YIN) | Description: Item name: 1045 Propeller Diameter: 10in Pitch: 4.5in Propeller diameter: 25.4cm Centre bore diameter : 6mm front and 9mm reverse side. Centre seat TH: 6mm Weight: about 14g/pair |  4 |
+|[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) | Aluminium is a chemical element with the symbol Al and atomic number 13. Aluminium has a density lower than those of other common metals, at approximately one third that of steel.  |  1 |
 |[3S 5000mAh 11.1v Battery. 60c XT60 ](https://binged.it/3AJzNxb)  |  |   1 |
 | [Raspberry Pi Zero WH](https://binged.it/3q7gxov) |  | 1  |
 | [Raspberry Pi Zero Camera](https://binged.it/3KS7lOk)  |  |   1 |
