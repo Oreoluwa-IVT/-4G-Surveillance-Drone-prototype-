@@ -19,19 +19,19 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 
 ## Bill of Materials (In progress....) 
 The components listed in the table below is for a quadcoper configuration. Although, the quantity of some components may vary for othe configurations 
-| Components       | Description   | Link to Purchase |
+| Components       | Description   | Quantity|
 |--------------|-----------|------------|
-|[1045 Propeller](https://binged.it/3Bm6YIN) |  |   |
-|[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) |  |   |
-|[3S 5000mAh 11.1v Battery. 60c XT60 ](https://binged.it/3AJzNxb)  |  |   |
-| [Raspberry Pi Zero WH](https://binged.it/3q7gxov) |  |   |
-| [Raspberry Pi Zero Camera](https://binged.it/3KS7lOk)  |  |   |
-|[Camera connector for Pi Zero WH (Flex Cable)](https://binged.it/3cLv2Lu) |  |   |
-|[Bolt and Nut](https://binged.it/3D4u3k6) |  |   |
-|[Zip Ties](https://binged.it/3AKdaZj)  |  |   |
-|[Battery Charger](https://binged.it/3wU4ZZu)  |  |   |
-|[Electronic Speed Controller 40A](https://bit.ly/oreesc)   |  |  |
-|[Ardupilot Flight Controller](https://binged.it/3q9LS9Z)   |  |  |
+|[1045 Propeller](https://binged.it/3Bm6YIN) |  |  4 |
+|[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) |  |  1 |
+|[3S 5000mAh 11.1v Battery. 60c XT60 ](https://binged.it/3AJzNxb)  |  |   1 |
+| [Raspberry Pi Zero WH](https://binged.it/3q7gxov) |  | 1  |
+| [Raspberry Pi Zero Camera](https://binged.it/3KS7lOk)  |  |   1 |
+|[Camera connector for Pi Zero WH (Flex Cable)](https://binged.it/3cLv2Lu) |  |   1 |
+|[Bolt and Nut](https://binged.it/3D4u3k6) |  |  30 |
+|[Zip Ties](https://binged.it/3AKdaZj)  |  |  20 |
+|[Battery Charger](https://binged.it/3wU4ZZu)  |  | 1  |
+|[Electronic Speed Controller 40A](https://bit.ly/oreesc)   |  | 4 |
+|[Ardupilot Flight Controller](https://binged.it/3q9LS9Z)   |  | 1  |
 
 ## Ground Station Software
 The Mission planner software is a ground station application I used for my final year project.Note: some versions are buggy although the software works if you follow the installation and setup instructions properly
