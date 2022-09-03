@@ -17,7 +17,7 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 |--------------|-----------|
 | ![image](https://user-images.githubusercontent.com/75027292/186240077-b275ccb4-2f3e-41ff-a0a3-b5ef013c380b.png) |![image](https://user-images.githubusercontent.com/75027292/186240302-cc7d08a3-3ad2-48c3-a4b1-305490a04321.png) |
 
-## BIil of Materials (In progress....) 
+## Bill of Materials (In progress....) 
 The components listed in the table below is for a quadcoper configuration. Although, the quantity of some components may vary for othe configurations 
 | Components       | Description   | Link to Purchase |
 |--------------|-----------|------------|
