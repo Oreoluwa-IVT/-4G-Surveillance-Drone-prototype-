@@ -33,7 +33,7 @@ The components listed in the table below is for a quadcoper configuration. Altho
 |[Electronic Speed Controller 40A](https://bit.ly/oreesc)   | An electronic speed control is an electronic circuit that controls and regulates the speed of an electric motor| 4 |
 |[Ardupilot Flight Controller](https://binged.it/3q9LS9Z) | ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more  | 1  |
 |[ 2300kv Brushless Motor](https://binged.it/3ATJXLQ) | It has a strong and unique performance thanks to its quality copper windings. 2300KV is the best quality motor model you can buy in the brushless motor category. Features: KV (rpm/v): 2300. Material: Metal. Rotation: CW. Motor diameter: 28mm. Motor height: 15mm (shaft excluded) Shaft diameter: 5mm. | 4  |
-|[FS-IA6 Controller](https://binged.it/3eovbVL) | It has a strong and unique performance thanks to its quality copper windings. 2300KV is the best quality motor model you can buy in the brushless motor category. Features: KV (rpm/v): 2300. Material: Metal. Rotation: CW. Motor diameter: 28mm. Motor height: 15mm (shaft excluded) Shaft diameter: 5mm. | 4  |
+|[FS-IA6 Controller](https://binged.it/3eovbVL) | Channels: 6 Channels,Model type: Airplane / Glider / Helicopter / Multirotor,Frequency range: 2.4--2.48GHZ,Band width number: 160,Transmitting power: not more than 20dBm,RF receiver sensitivity: -105dbm,2.4G modes: automatic frequency second generation digital systems,Encoding: GFSK,Antenna length: 26mm,Input power: 4.0-6.5V DC,Dimension: 40 * 21 * 7mm,Weight: 6.4g,Color: Black,i-Bus interface: No,Data acquisition interface: None | 4  |
 
 
 ## Ground Station Software
