@@ -19,21 +19,21 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 
 ## Bill of Materials (In progress....) 
 The components listed in the table below is for a quadcoper configuration. Although, the quantity of some components may vary for othe configurations 
-| Components       | Description   | Quantity|
-|--------------|-----------|------------|
-|[1045 Propeller](https://binged.it/3Bm6YIN) | Description: Item name: 1045 Propeller Diameter: 10in Pitch: 4.5in Propeller diameter: 25.4cm Centre bore diameter : 6mm front and 9mm reverse side. Centre seat TH: 6mm Weight: about 14g/pair |  4 |
-|[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) | Aluminium is a chemical element with the symbol Al and atomic number 13. Aluminium has a density lower than those of other common metals, at approximately one third that of steel.  |  1 |
-|[3S 5000mAh 11.1v Battery. 60c XT60 ](https://binged.it/3AJzNxb)  | An electric battery is a source of electric power consisting of one or more electrochemical cells with external connections for powering electrical devices.  |   1 |
-| [Raspberry Pi Zero WH](https://binged.it/3q7gxov) | Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom. The Raspberry Pi Zero W extends the Pi Zero family and comes with added wireless LAN and Bluetooth connectivity. | 1  |
-| [Raspberry Pi Zero Camera](https://binged.it/3KS7lOk)  | Raspberry Pi currently sell two types of camera board: an 8MP device and a 12MP High Quality (HQ) camera. The 8MP device is also available in NoIR form without an IR filter. The original 5MP device is no longer available from Raspberry Pi.All Raspberry Pi cameras are capable of taking high-resolution photographs, along with full HD 1080p video, and can be fully controlled programmatically. |   1 |
-|[Pi Zero WH Flex Cable](https://binged.it/3cLv2Lu) | The Cable for the raspberry pi zero is different|   1 |
-|[Bolt and Nut](https://binged.it/3D4u3k6) | fastening materials |  30 |
-|[Zip Ties](https://binged.it/3AKdaZj)  | fastening materials |  20 |
-|[Battery Charger](https://binged.it/3wU4ZZu)  | The module charges the 5200mAh 11.1v battery  | 1  |
-|[Electronic Speed Controller 40A](https://bit.ly/oreesc)   | An electronic speed control is an electronic circuit that controls and regulates the speed of an electric motor| 4 |
-|[Ardupilot Flight Controller](https://binged.it/3q9LS9Z) | ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more  | 1  |
-|[ 2300kv Brushless Motor](https://binged.it/3ATJXLQ) | It has a strong and unique performance thanks to its quality copper windings. 2300KV is the best quality motor model you can buy in the brushless motor category. Features: KV (rpm/v): 2300. Material: Metal. Rotation: CW. Motor diameter: 28mm. Motor height: 15mm (shaft excluded) Shaft diameter: 5mm. | 4  |
-|[FS-IA6 Controller](https://binged.it/3eovbVL) | Channels: 6 Channels,Model type: Airplane / Glider / Helicopter / Multirotor,Frequency range: 2.4--2.48GHZ,Band width number: 160,Transmitting power: not more than 20dBm,RF receiver sensitivity: -105dbm,2.4G modes: automatic frequency second generation digital systems,Encoding: GFSK,Antenna length: 26mm,Input power: 4.0-6.5V DC,Dimension: 40 * 21 * 7mm,Weight: 6.4g,Color: Black,i-Bus interface: No,Data acquisition interface: None | 1  |
+| Components       | Description   | Quantity|  Price |
+|--------------|-----------|------------| ------------|
+|[1045 Propeller](https://binged.it/3Bm6YIN) | Description: Item name: 1045 Propeller Diameter: 10in Pitch: 4.5in Propeller diameter: 25.4cm Centre bore diameter : 6mm front and 9mm reverse side. Centre seat TH: 6mm Weight: about 14g/pair |  4 | |
+|[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) | Aluminium is a chemical element with the symbol Al and atomic number 13. Aluminium has a density lower than those of other common metals, at approximately one third that of steel.  |  1 | |
+|[3S 5000mAh 11.1v Battery. 60c XT60 ](https://binged.it/3AJzNxb)  | An electric battery is a source of electric power consisting of one or more electrochemical cells with external connections for powering electrical devices.  |   1 |  |
+| [Raspberry Pi Zero WH](https://binged.it/3q7gxov) | Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom. The Raspberry Pi Zero W extends the Pi Zero family and comes with added wireless LAN and Bluetooth connectivity. | 1  |  |
+| [Raspberry Pi Zero Camera](https://binged.it/3KS7lOk)  | Raspberry Pi currently sell two types of camera board: an 8MP device and a 12MP High Quality (HQ) camera. The 8MP device is also available in NoIR form without an IR filter. The original 5MP device is no longer available from Raspberry Pi.All Raspberry Pi cameras are capable of taking high-resolution photographs, along with full HD 1080p video, and can be fully controlled programmatically. |   1 |  |
+|[Pi Zero WH Flex Cable](https://binged.it/3cLv2Lu) | The Cable for the raspberry pi zero is different|   1 |  |
+|[Bolt and Nut](https://binged.it/3D4u3k6) | fastening materials |  30 |  |
+|[Zip Ties](https://binged.it/3AKdaZj)  | fastening materials |  20 |   |
+|[Battery Charger](https://binged.it/3wU4ZZu)  | The module charges the 5200mAh 11.1v battery  | 1  |  |
+|[Electronic Speed Controller 40A](https://bit.ly/oreesc)   | An electronic speed control is an electronic circuit that controls and regulates the speed of an electric motor| 4 |  |
+|[Ardupilot Flight Controller](https://binged.it/3q9LS9Z) | ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more  | 1  |   |
+|[ 2300kv Brushless Motor](https://binged.it/3ATJXLQ) | It has a strong and unique performance thanks to its quality copper windings. 2300KV is the best quality motor model you can buy in the brushless motor category. Features: KV (rpm/v): 2300. Material: Metal. Rotation: CW. Motor diameter: 28mm. Motor height: 15mm (shaft excluded) Shaft diameter: 5mm. | 4  |   |
+|[FS-IA6 Controller](https://binged.it/3eovbVL) | Channels: 6 Channels,Model type: Airplane / Glider / Helicopter / Multirotor,Frequency range: 2.4--2.48GHZ,Band width number: 160,Transmitting power: not more than 20dBm,RF receiver sensitivity: -105dbm,2.4G modes: automatic frequency second generation digital systems,Encoding: GFSK,Antenna length: 26mm,Input power: 4.0-6.5V DC,Dimension: 40 * 21 * 7mm,Weight: 6.4g,Color: Black,i-Bus interface: No,Data acquisition interface: None | 1  |  |
 
 
 ## Ground Station Software
