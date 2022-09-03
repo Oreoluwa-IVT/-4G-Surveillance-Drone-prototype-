@@ -22,7 +22,7 @@ The components listed in the table below is for a quadcoper configuration. Hence
 | Components       | Description   | Link to Purchase |
 |--------------|-----------|------------|
 |[1045 Propeller](https://bit.ly/propellers1045)  |  |   |
-|Light Weight Aluminium (Sheet: 500mm x 500mm) |  |   |
+|[Aluminium Sheet 500mm x 500mm ](https://bit.ly/propellers1045) |  |   |
 |3S 5200mAh 11.1v Battery. 60c XT60  |  |   |
 |Raspberry Pi Zero WH  |  |   |
 |Raspberry Pi Zero Camera  |  |   |
