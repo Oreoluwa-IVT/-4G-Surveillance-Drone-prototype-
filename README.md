@@ -21,7 +21,7 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 The components listed in the table below is for a quadcoper configuration. Although, the quantity of some components may vary for othe configurations 
 | Components       | Description   | Link to Purchase |
 |--------------|-----------|------------|
-|[1045 Propeller](https://bit.ly/propellers1045)  |  |   |
+|[1045 Propeller](https://binged.it/3Bm6YIN) |  |   |
 |[Aluminium Sheet 500mm x 500mm ]() |  |   |
 |[3S 5000mAh 11.1v Battery. 60c XT60 ](https://bit.ly/4GUAVBattery)  |  |   |
 |Raspberry Pi Zero WH  |  |   |
