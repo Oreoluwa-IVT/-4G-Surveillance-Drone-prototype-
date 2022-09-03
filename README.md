@@ -21,7 +21,7 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 The components listed in the table below is for a quadcoper configuration. Hence, the quantity of some components may vary for othe configurations 
 | Components       | Description   | Link to Purchase |
 |--------------|-----------|------------|
-|1045 Propeller CCW /CW  |  | [ESC 40A](https://bit.ly/oreesc)    |
+|[1045 Propeller](https://bit.ly/propellers1045)  |  |   |
 |Light Weight Aluminium (Sheet: 500mm x 500mm) |  |   |
 |3S 5200mAh 11.1v Battery. 60c XT60  |  |   |
 |Raspberry Pi Zero WH  |  |   |
@@ -30,6 +30,7 @@ The components listed in the table below is for a quadcoper configuration. Hence
 |Screw and Knot |  |   |
 |Zip Ties  |  |   |
 |Battery Charger  |  |   |
+|[Electronic Speed Controller 40A](https://bit.ly/oreesc)   |  |  |
 
 ## Ground Station Software
 The Mission planner software is a ground station application I used for my final year project.Note: some versions are buggy although the software works if you follow the installation and setup instructions properly
