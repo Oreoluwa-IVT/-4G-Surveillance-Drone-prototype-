@@ -50,6 +50,6 @@ The Mission planner software is a ground station application I used for my final
 
 ## Useful Tutorials
 - [ ] [How to make Quadcopter frame]( https://www.youtube.com/watch?v=H6jjlcwGJwY&list=PL4B0LEKY-jrR5_988bfV39yGzMQSas-v4)  
-- [ ] [How to make Quadcopter drone with APM 2.8 and GPS | APM 2.8 connections (Part 1) | step by step](https://youtu.be/S7VZ796W8VA](https://youtu.be/UW1-gSySgxg)  
+- [ ] [How to make Quadcopter drone with APM 2.8 and GPS | APM 2.8 connections (Part 1) | step by step](https://youtu.be/UW1-gSySgxg)  
 - [ ] [APM 2.8 flight controller setup | How to make Quadcopter with APM2.8(Part 2) | Mission planner setup](https://www.youtube.com/watch?v=S7VZ796W8VA)  
 - [ ] [APM 2.5 Ardupilot controller- setup guide 1 of 4](https://www.youtube.com/watch?v=QAFdHnoae0s)  
