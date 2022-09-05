@@ -21,7 +21,7 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 The components listed in the table below is for a quadcoper configuration. Although, the quantity of some components may vary for othe configurations 
 | Components       | Description   | Quantity|  ₦Price (2022) |
 |--------------|-----------|------------| ------------|
-|[1045 Propeller](https://binged.it/3Bm6YIN) | Description: Item name: 1045 Propeller Diameter: 10in Pitch: 4.5in Propeller diameter: 25.4cm Centre bore diameter : 6mm front and 9mm reverse side. Centre seat TH: 6mm Weight: about 14g/pair |  4 |2091.69|
+|[1045 Propeller](https://binged.it/3Bm6YIN) | Description: Item name: 1045 Propeller Diameter: 10in Pitch: 4.5in Propeller diameter: 25.4cm Centre bore diameter : 6mm front and 9mm reverse side. Centre seat TH: 6mm Weight: about 14g/pair |  4 |2,091.69|
 |[Aluminium Sheet 500mm x 500mm ](https://binged.it/3QfUJ4k) | Aluminium is a chemical element with the symbol Al and atomic number 13. Aluminium has a density lower than those of other common metals, at approximately one third that of steel.  |  1 | 15,000.00|
 |[3S 5000mAh 11.1v Battery. 60c XT60 ](https://binged.it/3AJzNxb)  | An electric battery is a source of electric power consisting of one or more electrochemical cells with external connections for powering electrical devices.  |   1 | 30,000.00 |
 | [Raspberry Pi Zero WH](https://binged.it/3q7gxov) | Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom. The Raspberry Pi Zero W extends the Pi Zero family and comes with added wireless LAN and Bluetooth connectivity. | 1  | 35,778.99 |
