@@ -8,7 +8,7 @@ In the partial fulfillment of the requirements for the award of the Bachelor of 
 | Minimum Hardware Requirements    | Software Requirements |
 |-----------|------------|
 |	500 Gigabyte Secondary Storage (SDD /HDD)|  Operating Systems Mininum:Microsoft Windows 10 |
-| Network Interface card (NIC) capable of setting up a hotspot connection |   |
+| Network Interface card (NIC) capable of setting up a hotspot connection | Python  |
 | 4GB Random Access memory stick (RAM)   | 
 
 
@@ -27,13 +27,13 @@ The components listed in the table below is for a quadcoper configuration. Altho
 | [Raspberry Pi Zero WH](https://binged.it/3q7gxov) | Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom. The Raspberry Pi Zero W extends the Pi Zero family and comes with added wireless LAN and Bluetooth connectivity. | 1  | 35,778.99 |
 | [Raspberry Pi Zero Camera](https://binged.it/3KS7lOk)  | Raspberry Pi currently sell two types of camera board: an 8MP device and a 12MP High Quality (HQ) camera. The 8MP device is also available in NoIR form without an IR filter. The original 5MP device is no longer available from Raspberry Pi.All Raspberry Pi cameras are capable of taking high-resolution photographs, along with full HD 1080p video, and can be fully controlled programmatically. |   1 | 3,522.85 |
 |[Pi Zero WH Flex Cable](https://binged.it/3cLv2Lu) | The Cable for the raspberry pi zero is different from that used on other Pi models.|   1 | 1,748.72 |
-|[Bolt and Nut](https://binged.it/3D4u3k6) | fastening materials |  30 | 7,000.00 |
-|[Zip Ties](https://binged.it/3AKdaZj)  | fastening materials |  20 | 563.15  |
-|[Battery Charger](https://binged.it/3wU4ZZu)  | The module charges the 5200mAh 11.1v battery  | 1  | 3,836.19 |
-|[Electronic Speed Controller 40A](https://bit.ly/oreesc)   | An electronic speed control is an electronic circuit that controls and regulates the speed of an electric motor| 4 | 8,300.35|
-|[Ardupilot Flight Controller](https://binged.it/3q9LS9Z) | ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more  | 1  | 23,313.15  |
+|[Bolt and Nut](https://binged.it/3D4u3k6) | fastening materials. |  30 | 7,000.00 |
+|[Zip Ties](https://binged.it/3AKdaZj)  | fastening materials. |  20 | 563.15  |
+|[Battery Charger](https://binged.it/3wU4ZZu)  | The module charges the 5200mAh 11.1v battery.  | 1  | 3,836.19 |
+|[Electronic Speed Controller 40A](https://bit.ly/oreesc)   | An electronic speed control is an electronic circuit that controls and regulates the speed of an electric motor.| 4 | 8,300.35|
+|[Ardupilot Flight Controller](https://binged.it/3q9LS9Z) | ArduPilot is a trusted, versatile, and open source autopilot system supporting many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft, boats, submarines, rovers and more.  | 1  | 23,313.15  |
 |[ 2300kv Brushless Motor](https://binged.it/3ATJXLQ) | It has a strong and unique performance thanks to its quality copper windings. 2300KV is the best quality motor model you can buy in the brushless motor category. Features: KV (rpm/v): 2300. Material: Metal. Rotation: CW. Motor diameter: 28mm. Motor height: 15mm (shaft excluded) Shaft diameter: 5mm. | 4  | 14,000.00  |
-|[FS-IA6 Controller](https://binged.it/3eovbVL) | Channels: 6 Channels,Model type: Airplane / Glider / Helicopter / Multirotor,Frequency range: 2.4--2.48GHZ,Band width number: 160,Transmitting power: not more than 20dBm,RF receiver sensitivity: -105dbm,2.4G modes: automatic frequency second generation digital systems,Encoding: GFSK,Antenna length: 26mm,Input power: 4.0-6.5V DC,Dimension: 40 * 21 * 7mm,Weight: 6.4g,Color: Black,i-Bus interface: No,Data acquisition interface: None | 1  | 19,384.17 |
+|[FS-IA6 Controller](https://binged.it/3eovbVL) | Channels: 6 Channels,Frequency range: 2.4--2.48GHZ,Band width number: 160,Transmitting power: not more than 20dBm,RF receiver sensitivity: -105dbm,2.4G modes: automatic frequency second generation digital systems,Encoding: GFSK,Antenna length: 26mm,Input power: 4.0-6.5V DC,Dimension: 40 * 21 * 7mm,Weight: 6.4g,Color: Black. | 1  | 19,384.17 |
 
 
 ## Ground Station Software
