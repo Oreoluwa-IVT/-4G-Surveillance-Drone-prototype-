@@ -37,7 +37,7 @@ The components listed in the table below is for a quadcoper configuration. Altho
 
 
 ## Ground Station Software
-I used the Mission planner software for this final year project.Note: some versions are buggy although the software works if you follow the installation and setup instructions properly.
+The Mission planner software was used a ground station software for this final year project.Note: some versions are buggy although the software works if you follow the installation and setup instructions properly.
 
 - [ ] [About Mission Planner](https://ardupilot.org/planner/docs/mission-planner-overview.html)  
 - [ ] [Install Mission Planner](https://ardupilot.org/planner/docs/mission-planner-installation.html)  
