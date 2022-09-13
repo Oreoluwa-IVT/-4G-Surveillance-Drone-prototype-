@@ -2,16 +2,6 @@
 ###### By Oluwafemi Oreoluwa
 In the partial fulfillment of the requirements for the award of the Bachelor of Engineering in Computer Engineering, I began the engineering design of an e-UAV and completed implementation four days to final year defense.This project aimed at reducing CO2 emissions contributed during aerial surveillance in the aviation industry by introducing a Network of electric 4G Surveillance Unmanned Aerial Vehicles.
 
-
-## Requirements
-
-| Minimum Hardware Requirements    | Software Requirements |
-|-----------|------------|
-|	500 Gigabyte Secondary Storage (SDD /HDD)|  Operating Systems Mininum:Microsoft Windows 10 |
-| Network Interface card (NIC) capable of setting up a hotspot connection | Python  |
-| 4GB Random Access memory stick (RAM)   | 
-
-
 ## Design 
 | System Design |  Network Diagram | 
 |--------------|-----------|
