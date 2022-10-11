@@ -17,10 +17,13 @@ The Mission planner software was used as a ground station software for this fina
 - [ ] [Install Mission Planner](https://ardupilot.org/planner/docs/mission-planner-installation.html)  
 
 ## End Results 
-| Frame Material  | Full Assembly  | Flight |
-|--------------|-----------|------------|
-| ![image](https://user-images.githubusercontent.com/75027292/186236744-8c30b7e8-f129-4f69-8ac2-61a19b94e8e3.png)|  ![image](https://user-images.githubusercontent.com/75027292/186237465-8e3c2c9b-1934-495d-a1f7-fc9e90147f48.png) | ![image](https://user-images.githubusercontent.com/75027292/186239196-a33fff34-c9ae-4228-909a-4655c8b2fd27.png)|
-|![image](https://user-images.githubusercontent.com/75027292/186236875-5cd0b15d-be1e-4f40-8713-ed92fbd48646.png) | ![image](https://user-images.githubusercontent.com/75027292/186237381-5bd7bc6a-ad53-40de-bc78-2130f1bb2b81.png)|![image](https://user-images.githubusercontent.com/75027292/186239565-ac8e6164-e1e8-4640-a357-9d2af41c9338.png)|
+| Frame Material  |  |  
+|--------------|-----------|
+| ![image](https://user-images.githubusercontent.com/75027292/186236744-8c30b7e8-f129-4f69-8ac2-61a19b94e8e3.png)| ![image](https://user-images.githubusercontent.com/75027292/186236875-5cd0b15d-be1e-4f40-8713-ed92fbd48646.png) |
+| Final Assembly  |  |  
+|![image](https://user-images.githubusercontent.com/75027292/186237465-8e3c2c9b-1934-495d-a1f7-fc9e90147f48.png) | ![image](https://user-images.githubusercontent.com/75027292/186237381-5bd7bc6a-ad53-40de-bc78-2130f1bb2b81.png) |
+| Flight  |  |  
+|![image](https://user-images.githubusercontent.com/75027292/186239565-ac8e6164-e1e8-4640-a357-9d2af41c9338.png)|  ![image](https://user-images.githubusercontent.com/75027292/186239196-a33fff34-c9ae-4228-909a-4655c8b2fd27.png)|
 
 ## See Useful Tutorials
 - [ ] [How to make Quadcopter frame]( https://www.youtube.com/watch?v=H6jjlcwGJwY&list=PL4B0LEKY-jrR5_988bfV39yGzMQSas-v4)  
