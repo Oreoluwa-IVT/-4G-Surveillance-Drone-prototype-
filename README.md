@@ -32,4 +32,5 @@ The Mission planner software was used as a ground station software for this fina
 - [ ] [APM 2.5 Ardupilot controller- setup guide 1 of 4](https://www.youtube.com/watch?v=QAFdHnoae0s)  
 - [ ] [Autonomous Drone with ArduCopter pixhawk and OpenCV.](https://youtu.be/Nrzs3dQ9exw)  
 ## See Flight Video 
-- [ ] [First Test Flight]( https://www.youtube.com/watch?v=H6jjlcwGJwY&list=PL4B0LEKY-jrR5_988bfV39yGzMQSas-v4)  
+- [ ] [Test Flight 1](https://youtu.be/DXVkWr5w3xQ)  
+- [ ] [Test Flight 2](https://youtu.be/ov8-3ipqqCE)  
